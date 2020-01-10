@@ -13,6 +13,6 @@ python assignment_YuyingJiang.py
 ```
 the script can also be used for other year
 ```bash
-Python assignment_YuyingJiang.py year
+python assignment_YuyingJiang.py year
 ```
 year is the year you want to scrap, eg: 2018
